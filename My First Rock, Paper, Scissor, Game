@@ -1,0 +1,35 @@
+//Exercise 2 Game Making Rock,Paper Scissors
+
+                //System.out.println("This is Rock, paper, Scissors Game!");
+                //System.out.println("\nChoose language for Hinglish Press 1 & for English press2.");
+                //Random so = new Random(System.in);
+                //int l = so.nextInt();
+                //switch (l) {
+                //    case 1:
+                //        System.out.println("Hinglish is Selected");
+                //        System.out.println("Aapka Game Start Hone Waala H\nNiche Game K Rules Padhlijiye");
+                //        System.out.println("Game M 3 material aapke paas honge jisme se aapko aek choose karna hoga,niche har material k side m uska symbol diya h symbol ko type karne se wo material select ho jayega\n>Scissor-1\n>Rock-2\n>Paper-3\nGreaterness\n>Rock(2)>Scissor(1)\n>Paper(3)>Rock(2)\n>Scissor(3)>Paper(2)\n");
+                //        System.out.println("TELL ME YOUR NAME");
+                //        Scanner s2 = new Scanner(System.in);
+                //        String n = s2.next();
+                //        System.out.println("Hello " + n + " I m Yash Jadaun M aapke saath khelunga, chliye shuru karte hn");
+                //        System.out.println("Now Game Start Be Ready!");
+                //        System.out.println("Aapki Chance ");
+                //        Scanner c=new Scanner(System.in);
+                //        int o=c.nextInt();
+
+                //        if (o> ) {
+                //            System.out.println("YASH JADAUN\n 3");
+                //            sout
+
+
+                //        }
+
+
+                        //case 2:
+                        //  System.out.println("English is selected");
+
+
+               // }
+           // }
+           // }
